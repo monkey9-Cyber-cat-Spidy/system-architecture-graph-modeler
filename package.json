@@ -1,0 +1,17 @@
+{
+  "name": "system-architecture-graph-modeler",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "test": "node --test"
+  },
+  "keywords": [
+    "dag",
+    "graph-theory",
+    "topological-sort",
+    "dependency-graph",
+    "cycle-detection"
+  ],
+  "author": "Kuncham Venkata Satya Manikanta",
+  "license": "MIT"
+}
